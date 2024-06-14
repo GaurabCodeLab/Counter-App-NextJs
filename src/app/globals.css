@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+}
+
+.counter{
+  text-align: center;
+}
+
+button{
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+}
+
+input{
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  width: 3rem;
+}
+
